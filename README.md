@@ -1,4 +1,4 @@
-# Financial Reports Projects — Retail Sales (Walmart-Style) SQL Analysis
+# Walmart Retail Sales SQL Data Extraction
 
 This repository documents the SQL used to explore a multi-table weekly retail sales dataset and outlines the insights each query is designed to produce. It also describes how to run the analysis, expected outputs, assumptions, and next steps.
 
